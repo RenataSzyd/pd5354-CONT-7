@@ -1,0 +1,1 @@
+Reverse complement of GCGCATATGCTCAGT is ACTGAGCATATGCGC
